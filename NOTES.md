@@ -13,3 +13,7 @@ Removes file from repository.
 # git reset <fileName>
 
 * removes a file from staging
+
+-- hard
+
+* also removes any changes made to the file
