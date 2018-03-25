@@ -1,5 +1,4 @@
-# git rm
-
+git rm
 Removes file from repository.
 
 --cached
